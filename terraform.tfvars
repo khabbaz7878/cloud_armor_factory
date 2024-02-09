@@ -1,4 +1,4 @@
-project_id = "sami-islam-project101-dev"
+project_id = "speedy-toolbox-360600"
 region = "northamerica-northeast1"
-policy_name = "sami-test-policy"
+policy_name = "mcict-test-policy"
 policy_description = "Security Policy Description"
